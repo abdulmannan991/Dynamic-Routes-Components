@@ -30,6 +30,13 @@ export default function CountryNames(){
         <li>
         <Link href="/country/Japan">Japan</Link>
         </li>
+
+        <li>
+                    <Link href="/country/Germany">Germany (No data)</Link>
+                </li>
+                <li>
+                    <Link href="/country/Newyork">New York (No data)</Link>
+                </li>
       </ul>
         </div>
     );
